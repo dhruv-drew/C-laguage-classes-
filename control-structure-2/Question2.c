@@ -10,10 +10,12 @@ int main()
     scanf("%d",&c);
     printf("Enter :");
     scanf("%d",&d);
+    printf("\n");
     printf("a is : %d\n",a);
     printf("b is : %d\n",b);
     printf("c is : %d\n",c);
     printf("d is : %d\n",d);
+    printf("\n");
 
     if (a > b)
     {
@@ -70,4 +72,5 @@ int main()
             printf("c is max");
         }
     }
+    return 0;
 }
