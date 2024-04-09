@@ -11,5 +11,5 @@ void main()
     gets(some);
     puts(some);
 
-    void strlength(some);
+    strlength(some);
 }
